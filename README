@@ -1,1 +1,10 @@
-This is my implementation of Peter Norvig's python spell-corrector, found here: http://norvig.com/spell-correct.html. Focus is on conciseness, not speed.
+ruby spell-correct
+==================
+
+This is my implementation of Peter Norvig's python spell-corrector, found here: http://norvig.com/spell-correct.html. 
+
+Focus is on conciseness, not performance.
+
+I provided a .txt file to train it, called holmes.txt; it's all the sherlock holmes books concated together. For better results, download http://norvig.com/big.txt which contains a million words or so..
+
+Note that the training material cannot be a dictionary, as it must help the corrector figure out which words are the most frequently used.
