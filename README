@@ -1,7 +1,7 @@
 ruby spell-correct
 ==================
 
-This is my implementation of Peter Norvig's python spell-corrector, found here: http://norvig.com/spell-correct.html. 
+My implementation of Peter Norvig's python spell-corrector, found here: http://norvig.com/spell-correct.html. 
 
 Focus is on conciseness, not performance.
 
